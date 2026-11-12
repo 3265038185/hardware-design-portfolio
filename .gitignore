@@ -1,0 +1,12 @@
+# OS / editor
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
+
+# Archives and temporary files
+*.zip
+*.rar
+*.7z
+*.tmp
